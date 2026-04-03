@@ -24,7 +24,7 @@
 
 // ===================== CONFIG =====================
 // 🔑 PASTE YOUR GROQ API KEY BELOW (get one free at https://console.groq.com)
-const GROQ_API_KEY = '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';
+const API_KEY = "YOUR_API_KEY_HERE";
 
 const CONFIG = {
   apiEndpoint: 'https://api.groq.com/openai/v1/chat/completions',
